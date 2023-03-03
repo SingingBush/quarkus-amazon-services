@@ -27,6 +27,7 @@
         <module>kms</module>
         <module>ssm</module>
         <module>secretsmanager</module>
+        <module>timestream</module>
         <module>docs</module>
         <module>integration-tests</module>
     </modules>

@@ -19,6 +19,7 @@ This set of extensions allows you to interact with some of the AWS Services name
  * SNS
  * SQS
  * SSM
+ * Timestream
 
 They also provide a common infrastructure to make it easy to add new ones.
 
